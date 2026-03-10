@@ -1,7 +1,7 @@
 ![Demo GIF](https://i.imgur.com/wTD41UR.gif)
 
 <div align="center">
-SkidNation Co-Owner | Tools & Education Enthusiast
+<img src="https://i.imgur.com/3xU85dI.png" width="600" alt="Profile Image">
 </div>
 
 
