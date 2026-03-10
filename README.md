@@ -1,9 +1,7 @@
 ![Demo GIF](https://i.imgur.com/wTD41UR.gif)
 
 <div align="center">
-  <p style="font-size: 18px; font-weight: bold; background: linear-gradient(135deg, #8B0000 0%, #DC143C 50%, #FF0000 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
-    I own the SkidNation YouTube Channel and share it with 2 other people. I release security tools and create educational videos showing how they work so you can defend yourself against the attacks. I specialize in goofball activities and am taking courses to become better at them. I plan on sharing my adventures and progress with everyone here.
-  </p>
+SkidNation Co-Owner | Tools & Education Enthusiast
 </div>
 
 
