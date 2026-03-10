@@ -1,16 +1,15 @@
-## Hi there 👋
+Hello Everyone Welcome To My Offical One And Only Github account
+![My Profile Picture][(<<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d3ff62f8-5e4f-47ad-8cc2-eff836c9d2d7" />](https://www.youtube.com/watch?v=S9jOZxtP7wk)
+" />
+)
+I Own The SkidNation YouTube Channel And Share it with 2 Other People
+(i share it in the sense of if they want to post on it they can)
 
-<!--
-**HajimeCobra/hajimecobra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i Release Tools Make Videos On How they work so u can find ways of defending urselfs against such attacks
 
-Here are some ideas to get you started:
+I Speicalize in Goofball Activitys and am part taking in Courses to become a better goofball and plan on sharing my adventures and progress with everyone here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Latin&pause=1000&color=17F704&width=435&lines=what+should+u+see+from+this+github;goes+as+following);-+Archives;-+Samples;-+Legacy+Tools+(Outdated+ones);-+Mini+Small+Non+Group+Related+Projects;U+Can+Find+All+My+Contact+Info+Below" alt="Typing SVG" /></a>
+
+[![Contact Me](<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/4f6c427f-2ee1-4aae-a704-bf18eaf5bd45" />
+)](https://myth.rip/hajimecobra)
