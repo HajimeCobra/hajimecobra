@@ -11,5 +11,6 @@ I Speicalize in Goofball Activitys and am part taking in Courses to become a bet
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Latin&pause=1000&color=17F704&width=435&lines=what+should+u+see+from+this+github;goes+as+following;-+Archives;-+Samples;-+Legacy+Tools+(Outdated+ones);-+Mini+Small+Non+Group+Related+Projects;U+Can+Find+All+My+Contact+Info+Below)](https://git.io/typing-svg)
 
-[![Contact Me](<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/bcef09a0-060d-4244-983b-4b8079ace418" />
-)](https://myth.rip/hajimecobra)
+<a href="https://myth.rip/hajimecobra">
+  <img src="[https://your-logo-url.png](https://i.imgur.com/XGVMXfW.jpeg)" width="50" alt="Contact Me">
+</a>
