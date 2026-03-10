@@ -1,12 +1,5 @@
 Hello Everyone Welcome To My Offical One And Only Github account
-<video width="600" controls>
-  <source src="https://i.imgur.com/9wBmSNc.mp4" type="video/mp4">
-  Your browser doesn't support HTML5 video.
-</video>
-<video width="600" autoplay muted loop>
-  <source src="https://i.imgur.com/9wBmSNc.mp4" type="video/mp4">
-</video>
-
+![Demo GIF](https://i.imgur.com/qlHCidi.gif)
 
 I Own The SkidNation YouTube Channel And Share it with 2 Other People
 (i share it in the sense of if they want to post on it they can)
