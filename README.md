@@ -1,3 +1,4 @@
+<div align="center">
 ![Demo GIF](https://i.imgur.com/wTD41UR.gif)
 
 <div align="center">
