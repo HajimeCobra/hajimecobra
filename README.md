@@ -1,5 +1,7 @@
+
 <div align="center">
-![Demo GIF](https://i.imgur.com/wTD41UR.gif)
+  <img src="https://i.imgur.com/wTD41UR.gif" width="700" alt="Demo GIF">
+</div>
 
 <div align="center">
 <img src="https://i.imgur.com/3xU85dI.png" width="600" alt="Profile Image">
