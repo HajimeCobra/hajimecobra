@@ -1,6 +1,6 @@
 Hello Everyone Welcome To My Offical One And Only Github account
 
-[![Watch Video](https://img.imgur.com/J0TNciW.jpg)](https://i.imgur.com/J0TNciW.mp4)
+![Demo GIF](https://i.imgur.com/wTD41UR.gif)
 
 I Own The SkidNation YouTube Channel And Share it with 2 Other People
 (i share it in the sense of if they want to post on it they can)
